@@ -1,5 +1,5 @@
-/*SPDX-License-Identifier: MIT
-  Copyright © 2021 Marcel Walder */
+/*Copyright (c) 2021 Marcel Walder
+  SPDX-License-Identifier: MIT*/
 
 #include <stdio.h>
 #include <conio.h>
